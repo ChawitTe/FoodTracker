@@ -11,6 +11,7 @@ Data operations separated into 4 tables.
 2. Fooddetails : consists of columns > Menu and Category
 3. Foodtracker : consists of columns > record_num, memberID, date, meal, menu, channel, and shopName, price
 4. Memberdetails : consists of columns > memberID, Name, Gender, Weight, and Height
+
 You can see the relationship of the data in the image above.
 
 
