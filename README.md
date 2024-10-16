@@ -12,6 +12,7 @@ Data operations separated into 4 tables.
 4. Memberdetails : consists of columns > memberID, Name, Gender, Weight, and Height
 
 You can see the relationship of the data in the image below.
+
 <img src="https://github.com/ChawitTe/FoodTracker/blob/main/JTM_database.png" style="width:300px;">
 
 
